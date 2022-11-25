@@ -7,10 +7,7 @@ SEMESTER: V
 ```
 *AIM:*
 
-Generate a random number “n” between [5-10], create a matrix of size nxn
-
-Populate the locations with “0” and “1” [the self-loops should be avoided]
-
+Generate a random number “n” between [5-10], create a matrix of size [n]x[n].Populate the locations with “0” and “1” [the self-loops should be avoided]
 Write the program to check and declare:
 
 a) Complete graph is cyclic
